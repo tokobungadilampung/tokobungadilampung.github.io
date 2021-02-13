@@ -36,7 +36,7 @@ Papan Bunga dan Buket di Lampung
 
 **Bunga** cari _Buket_ and `Papan Bunga Lampung` kata kunci
 
-[Toko Bunga Lampung](https://www.bungabuket.com/toko-bunga-lampung-buket-mawar/ title="toko bunga lampung") and ![Toko Bunga di Lampung](https://www.bungabuket.com/wp-content/uploads/2019/02/bungabuket-com_-logo.jpg title="toko bunga di lampung")
+[Toko Bunga Lampung](https://www.bungabuket.com/toko-bunga-lampung-buket-mawar/) and ![Toko Bunga di Lampung](https://www.bungabuket.com/wp-content/uploads/2019/02/bungabuket-com_-logo.jpg)
 ```
 
 Untuk lebih lengkapnya kunjungi di [Toko Bunga Lampung Asry Florist](https://m.asryflorist.com/toko-bunga-lampung.html).
