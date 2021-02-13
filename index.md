@@ -2,122 +2,55 @@
 layout: default
 ---
 
-category **toko bunga lampung**, _toko bunga di lampung_, dan ~~florist di lampung~~.
+## Toko Bunga Lampung Asry Florist
 
-[Blog Toko Bunga Lampung](https://tokobungalampung.xyz).
+Selamat Datang di [Toko Bunga Lampung](https://tokobungalampung.xyz) untuk melihat detail info di blog Toko Bunga Lampung Asry Florist.
 
-Selamat Datang di Blog Toko Bunga Lampung Asry Florist.
+Untuk produk karangan bunga lampung, bisa di lihat [Produk Bunga Buket](https://www.bungabuket.com/shop/) tersedia banyak pilihan.
 
-Laman Toko Bunga di Lampung ini menggunakan Github Page sebagai host project repo nya.
+### Papan dan Buket Bunga Lampung
 
-# Visi Blog Toko Bunga Lampung
+Pilihan produk yang tersedia di Toko Bunga Lampung Asry Florist. Terdiri dari
 
-Sebagai upaya untuk memuat beberapa produk update terbaru dari blog toko bunga di lampung asry florist.
+```markdown
+Papan Bunga dan Buket di Lampung
 
-## Misi Blog Toko Bunga Lampung
+# Papan Bunga Lampung
+## Buket Bunga Lampung
+### Rangkaian Bunga di Lampung
 
-> Blog ini memberikan update produk terbaru.
-> Dengan tenaga profesional di bidangnya.
-> Selalu online untuk pelanggan setia.
+- Pernikahan
+- Pelantikan
+- Peresmian
+- Ulang Tahun
+- Wisuda
+- Dukacita
+- Pengkhitanan
+- Penabalan Nama
+- Syukuran
+- Grand Opening
+- Congratulations
 
-### Teknologi Blog Toko Bunga Lampung
+1. Bunga Segar
+2. Bunga Meja
+3. Mawar Standing
+4. Buket Tangan
+5. Bunga Krans
+6. Bunga Salib
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
+**Bunga** cari _Buket_ and `Papan Bunga Lampung` kata kunci
+
+[Toko Bunga Lampung](https://www.bungabuket.com/toko-bunga-lampung-buket-mawar/) and ![Toko Bunga di Lampung](https://www.bungabuket.com/wp-content/uploads/2019/02/bungabuket-com_-logo.jpg)
 ```
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+Untuk lebih lengkapnya kunjungi di [Toko Bunga Lampung Asry Florist](https://m.asryflorist.com/toko-bunga-lampung.html).
 
-#### Header 4
+### Blog Toko Bunga Lampung
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+Laman blog toko bunga di lampung di persembahkan oleh [Github Page Toko Bunga Lampung](https://tokobungadilampung.github.io). Terima Kasih telah singgah di `Blog Toko Bunga Lampung`.
 
-##### Header 5
+### Kontak Toko Bunga Lampung
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+Untuk pemesanan atau informasi silahkan menghubungi admin kami di 081396353338.
 
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+Salam dan Terima Kasih.
