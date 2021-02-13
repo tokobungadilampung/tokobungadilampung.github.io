@@ -1,37 +1,52 @@
-## Welcome to GitHub Pages
+## Toko Bunga Lampung Asry Florist
 
-You can use the [editor on GitHub](https://github.com/tokobungadilampung/tokobungadilampung.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Selamat Datang di [Toko Bunga Lampung](https://tokobungalampung.xyz) untuk melihat detail info di blog Toko Bunga Lampung Asry Florist.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Untuk produk karangan bunga lampung, bisa di lihat [Produk Bunga Buket](https://www.bungabuket.com/shop/) tersedia banyak pilihan.
 
-### Markdown
+### Papan dan Buket Bunga Lampung
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Pilihan produk yang tersedia di Toko Bunga Lampung Asry Florist. Terdiri dari
 
 ```markdown
-Syntax highlighted code block
+Papan Bunga dan Buket di Lampung
 
-# Header 1
-## Header 2
-### Header 3
+# Papan Bunga Lampung
+## Buket Bunga Lampung
+### Rangkaian Bunga di Lampung
 
-- Bulleted
-- List
+- Pernikahan
+- Pelantikan
+- Peresmian
+- Ulang Tahun
+- Wisuda
+- Dukacita
+- Pengkhitanan
+- Penabalan Nama
+- Syukuran
+- Grand Opening
+- Congratulations
 
-1. Numbered
-2. List
+1. Bunga Segar
+2. Bunga Meja
+3. Mawar Standing
+4. Buket Tangan
+5. Bunga Krans
+6. Bunga Salib
 
-**Bold** and _Italic_ and `Code` text
+**Bunga** cari _Buket_ and `Papan Bunga Lampung` kata kunci
 
-[Link](url) and ![Image](src)
+[Toko Bunga Lampung](https://www.bungabuket.com/toko-bunga-lampung-buket-mawar/ title="toko bunga lampung") and ![Toko Bunga di Lampung](https://www.bungabuket.com/wp-content/uploads/2019/02/bungabuket-com_-logo.jpg title="toko bunga di lampung")
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Untuk lebih lengkapnya kunjungi di [Toko Bunga Lampung Asry Florist](https://m.asryflorist.com/toko-bunga-lampung.html).
 
-### Jekyll Themes
+### Blog Toko Bunga Lampung
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tokobungadilampung/tokobungadilampung.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Laman blog toko bunga di lampung di persembahkan oleh [Github Page Toko Bunga Lampung](https://tokobungadilampung.github.io). Terima Kasih telah singgah di `Blog Toko Bunga Lampung`.
 
-### Support or Contact
+### Kontak Toko Bunga Lampung
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Untuk pemesanan atau informasi silahkan menghubungi admin kami di 081396353338.
+
+Salam dan Terima Kasih.
